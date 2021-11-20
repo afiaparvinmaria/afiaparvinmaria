@@ -6,6 +6,6 @@ Skills: C++/ Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamsafa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariamsafa)  
+##### ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mariamsafa)  
 
 ![Profile views](https://gpvc.arturio.dev/mariamsafa)  
